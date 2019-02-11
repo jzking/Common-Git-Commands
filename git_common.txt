@@ -1,0 +1,21 @@
+(Start in the main repository folder)
+git clone http... (only once)
+------
+
+git pull
+
+git status (shows changes)
+git add -h (help for options)
+git add -u (add modified & remove deleted files--won't add new files) *My favorite
+git add -A (won't delete)
+git add .
+git add "file name"
+
+git status (shows added/changed files)
+
+git commit -m "Type a message here."
+git push -u origin master
+
+-----
+
+git reset file (resets file to master)
